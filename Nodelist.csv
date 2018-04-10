@@ -1,0 +1,129 @@
+id,name,type,senderart
+AmbrosiusF,Florian Ambrosius,0,
+Ausbildung_Elektronikfacharbeit,Ausbildung Elektronikfacharbeit,1,
+Ausbildung_Journalistenschule,Ausbildung Journalsitenschule,1,
+Ausbildung_Meteorologie,Ausbildung Meteorologie,1,
+Ausbildung_Moderation,Ausbildung Moderation,1,
+Ausbildung_Sportreporter,Ausbildung Sportreporter,1,
+Ausbildung_Werbekauffrau,Ausbildung Werbekauffrau,1,
+BaeckerD,Donald Baecker,0,
+BiewerM,Maxi Biewer,0,
+BoschmannD,Daniel Boschmann,0,
+BreyerJ,Jochen Breyer,0,
+FingererbenA,Angela Fingererben,0,
+GrossmannP,Peter Großmann,0,
+HahnJ,Jan Hahn,0,
+HayaliD,Dunja Hayali,0,
+HeinrichK,Karen Heinrich,0,
+HeydeA,Anja Heyde,0,
+ImhofE,Eva Imhof,0,
+KillingM,Matthias Killing,0,
+KnaebleJ,Jennifer Knaeble,0,
+KonsW,Wolfgang Kons,0,
+LinkS,Susan Link,0,
+LorigS,Sven Lorig,0,
+LufenM,Marlene Lufen,0,
+MeierC,Christiane Meier,0,
+NassifT,Til Nassif,0,
+NaumannS,Saskia Naumann,0,
+Online_Spox.com,Spox.com,1,privat
+Online_ZeitOnline,Zeit Online,1,privat
+PareigisJ,Jane Pareigis,0,
+PlankenA,Anna Planken,0,
+Praktikum_Radio_DeutscheWelle,Praktikum DeutscheWelle,1,oeffentlich rechtlich
+Praktikum_TV_ABC,Praktikum ABC,1,privat
+Praktikum_TV_Eurosport,Praktikum Eurosport,1,privat
+Praktikum_TV_SAT1,Praktikum SAT1,1,privat
+Praktikum_TV_SKY,Praktikum Sky,1,privat
+Praktikum_Zeitung_Bild,Praktikum Bild,1,privat
+Radio_Bayrisches_Lokalradio,Bayrisches Lokalradio,1,privat
+Radio_BR,Bayrischer Rundfunk,1,oeffentlich rechtlich
+Radio_Charivari,Radio Charivari,1,
+Radio_DeutscheWelle,Radio Deutsche Welle,1,oeffentlich rechtlich
+Radio_Energy_Berlin,Radio Energy Berlin,1,privat
+Radio_Energy_Sachsen,Radio Energy Sachsen,1,privat
+Radio_KissFM,Kiss FM,1,privat
+Radio_MDR,MDR,1,oeffentlich rechtlich
+Radio_Neandertal,Radio Neandertal,1,
+Radio_NRJ,Radio NRJ,1,privat
+Radio_RadioBremen,Radio Bremen,1,oeffentlich rechtlich
+Radio_RadioDortmund,Radio Dortmund,1,privat
+Radio_RadioKoeln,Radio Koeln,1,privat
+Radio_RadioMultikulti,Radio Multikulti,1,oeffentlich rechtlich
+Radio_RadioWuppertal,Radio Wuppertal,1,privat
+Radio_rs2,RS2,1,privat
+Radio_RTL,RTL Radio,1,privat
+Radio_SenderPotsdam,Sender Potsdam,1,
+Radio_SpreeRadio,Spreeradio,1,privat
+Radio_StarFM,Star FM,1,privat
+Radio_Untersberg,Radio Untersberg,1,
+Radio_YouFM,YouFM,1,oeffentlich rechtlich
+SchumacherS,Susanne Schumacher,0,
+SirinM,Mitrin Sirin,0,
+SkulskiT,Thomas Skulski,0,
+StoeweB,Benjamin Stoewe,0,
+Studium_Afrikanistik,Afrikanistikstudium,1,
+Studium_Amerikanistik,Amerikanistikstudium,1,
+Studium_Anglistik,Anglistikstudium,1,
+Studium_BWL,BWL Studium,1,
+Studium_Geographie,Geographiestudium,1,
+Studium_Germanistik,Germanistikstudium,1,
+Studium_Germanistische_Linguistik,Studium der Germanistischen Linguistik,1,
+Studium_Geschichte,Geschichtsstudium,1,
+Studium_Journalistik,Journalistikstudium,1,
+Studium_Jura,Jurastudium,1,
+Studium_Literatur,Literaturstudium,1,
+Studium_Medien,Medienstudium,1,
+Studium_Medienwirtschaft,Medienwirtschaftsstudium,1,
+Studium_Medienwissenschaft,Medienwissenschaftsstudium,1,
+Studium_Nordamerikastudien,Studium der Nordamerikastudien,1,
+Studium_Philosophie,Philosophiestudium,1,
+Studium_Politik,Politikstudium,1,
+Studium_Psychologie,Psychologiestudium,1,
+Studium_Schauspiel,Schauspielstudium,1,
+Studium_Skandinavistik,Skandinavistikstudium,1,
+Studium_Spanisch,Spanischstudium,1,
+Studium_Sport,Sportstudium,1,
+Studium_Studium,Studium,1,
+Studium_Volkswirtschaftslehre,Studium der Volkswirtschaftslehre,1,
+TV_ARD,ARD,1,oeffentlich rechtlich
+TV_BahnTV,Bahn TV,1,privat
+TV_BR,Bayrischer Rundfunk,1,oeffentlich rechtlich
+TV_DasVierte,Das Vierte,1,privat
+TV_DeutscheWelleTV,Deutsche Welle TV,1,oeffentlich rechtlich
+TV_DFF,DFF,1,oeffentlich rechtlich
+TV_DisneyChannel,DisneyChannel,1,privat
+TV_Fraport,Fraport,1,privat
+TV_Hamburg1,Hamburg1,1,privat
+TV_HR3,HR3,1,oeffentlich rechtlich
+TV_MDR,MDR,1,oeffentlich rechtlich
+TV_N24,N24,1,privat
+TV_NRWTV,NRW TV,1,privat
+TV_NTV,NTV,1,privat
+TV_ProSieben,ProSieben,1,privat
+TV_RBB,RBB,1,oeffentlich rechtlich
+TV_RheinMainTV,RheinMainTV,1,privat
+TV_RTL,RTL,1,privat
+TV_SAT1,SAT1,1,privat
+TV_Sport1,Sport 1,1,privat
+TV_SuperRTL,SuperRTL,1,privat
+TV_SWR,SWR,1,oeffentlich rechtlich
+TV_TierTV,TierTV,1,privat
+TV_VOX,Vox,1,privat
+TV_WDR,WDR,1,oeffentlich rechtlich
+TV_ZDF,ZDF,1,oeffentlich rechtlich
+UlrichWC,Wolf-Christian Ulrich,0,
+Volontariat_Radio_RadioGong,Volontariat Radio Gong,1,privat
+Volontariat_Radio_RadioSaw,Volontariat Radio SAW,1,privat
+Volontariat_Radio_RadioWuppertal,Volontariat Radio Wuppertal,1,
+Volontariat_TV_NBC,Volontariat NBC,1,privat
+Volontariat_TV_NDR,Volontariat NDR,1,oeffentlich rechtlich
+Volontariat_TV_SAT1,Volontariat Sat1,1,privat
+Volontariat_TV_WDR,Volontariat WDR,1,oeffentlich rechtlich
+WackertC,Christian Wackert,1,
+Zeitung_EberswalderAltstadtnachrichten,Eberswalder Altstadtnachrichten,1,privat
+Zeitung_MaerkischeVolksstimme,Maerkische Volksstimme,1,privat
+Zeitung_Sueddeutsche Zeitung,Sueddeutsche Zeitung,1,privat
+Zeitung_Welt,Welt,1,privat
+Zeitung_WochenkurierHagen,Wochenkurier Hagen,1,privat
+ZimmermannA,Annika Zimmermann,0,
