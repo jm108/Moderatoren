@@ -37,13 +37,13 @@ Praktikum_TV_SAT1,Praktikum SAT1,1,1,0,0,1,0,0,0,1,0
 Praktikum_TV_SKY,Praktikum Sky,1,1,0,0,1,0,0,0,1,0
 Praktikum_Zeitung_Bild,Praktikum Bild,1,1,0,1,0,0,0,0,1,0
 Radio_Bayrisches_Lokalradio,Bayrisches Lokalradio,1,1,0,0,0,1,0,0,0,0
-Radio_BR,Bayrischer Rundfunk,1,0,0,0,0,1,0,0,0,0
+Radio_BR,Radio Bayrischer Rundfunk,1,0,0,0,0,1,0,0,0,0
 Radio_Charivari,Radio Charivari,1,na,0,0,0,1,0,0,0,0
 Radio_DeutscheWelle,Radio Deutsche Welle,1,0,0,0,0,1,0,0,0,0
 Radio_Energy_Berlin,Radio Energy Berlin,1,1,0,0,0,1,0,0,0,0
 Radio_Energy_Sachsen,Radio Energy Sachsen,1,1,0,0,0,1,0,0,0,0
 Radio_KissFM,Kiss FM,1,1,0,0,0,1,0,0,0,0
-Radio_MDR,MDR,1,0,0,0,0,1,0,0,0,0
+Radio_MDR,Radio MDR,1,0,0,0,0,1,0,0,0,0
 Radio_Neandertal,Radio Neandertal,1,na,0,0,0,1,0,0,0,0
 Radio_NRJ,Radio NRJ,1,1,0,0,0,1,0,0,0,0
 Radio_RadioBremen,Radio Bremen,1,0,0,0,0,1,0,0,0,0
@@ -88,7 +88,7 @@ Studium_Studium,Studium,1,na,0,0,0,0,1,0,0,0
 Studium_Volkswirtschaftslehre,Studium der Volkswirtschaftslehre,1,na,0,0,0,0,1,0,0,0
 TV_ARD,ARD,1,0,0,0,1,0,0,0,0,0
 TV_BahnTV,Bahn TV,1,1,0,0,1,0,0,0,0,0
-TV_BR,Bayrischer Rundfunk,1,0,0,0,1,0,0,0,0,0
+TV_BR,Bayrischer Rundfunk TV,1,0,0,0,1,0,0,0,0,0
 TV_DasVierte,Das Vierte,1,1,0,0,1,0,0,0,0,0
 TV_DeutscheWelleTV,Deutsche Welle TV,1,0,0,0,1,0,0,0,0,0
 TV_DFF,DFF,1,0,0,0,1,0,0,0,0,0
@@ -96,7 +96,7 @@ TV_DisneyChannel,DisneyChannel,1,1,0,0,1,0,0,0,0,0
 TV_Fraport,Fraport,1,1,0,0,1,0,0,0,0,0
 TV_Hamburg1,Hamburg1,1,1,0,0,1,0,0,0,0,0
 TV_HR3,HR3,1,0,0,0,1,0,0,0,0,0
-TV_MDR,MDR,1,0,0,0,1,0,0,0,0,0
+TV_MDR,MDR TV,1,0,0,0,1,0,0,0,0,0
 TV_N24,N24,1,1,0,0,1,0,0,0,0,0
 TV_NRWTV,NRW TV,1,1,0,0,1,0,0,0,0,0
 TV_NTV,NTV,1,1,0,0,1,0,0,0,0,0
