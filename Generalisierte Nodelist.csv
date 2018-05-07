@@ -38,13 +38,13 @@ Praktikum_TV_SKY,Praktikum Sky,1,1,0,0,1,0,0,0,1,0
 Praktikum_Zeitung_Bild,Praktikum Bild,1,1,0,1,0,0,0,0,1,0
 Radio_Bayrisches_Lokalradio,Bayrisches Lokalradio,1,1,0,0,0,1,0,0,0,0
 Radio_BR,Radio Bayrischer Rundfunk,1,0,0,0,0,1,0,0,0,0
-Radio_Charivari,Radio Charivari,1,na,0,0,0,1,0,0,0,0
+Radio_Charivari,Radio Charivari,1,1,0,0,0,1,0,0,0,0
 Radio_DeutscheWelle,Radio Deutsche Welle,1,0,0,0,0,1,0,0,0,0
 Radio_Energy_Berlin,Radio Energy Berlin,1,1,0,0,0,1,0,0,0,0
 Radio_Energy_Sachsen,Radio Energy Sachsen,1,1,0,0,0,1,0,0,0,0
 Radio_KissFM,Kiss FM,1,1,0,0,0,1,0,0,0,0
 Radio_MDR,Radio MDR,1,0,0,0,0,1,0,0,0,0
-Radio_Neandertal,Radio Neandertal,1,na,0,0,0,1,0,0,0,0
+Radio_Neandertal,Radio Neandertal,1,1,0,0,0,1,0,0,0,0
 Radio_NRJ,Radio NRJ,1,1,0,0,0,1,0,0,0,0
 Radio_RadioBremen,Radio Bremen,1,0,0,0,0,1,0,0,0,0
 Radio_RadioDortmund,Radio Dortmund,1,1,0,0,0,1,0,0,0,0
@@ -53,10 +53,10 @@ Radio_RadioMultikulti,Radio Multikulti,1,0,0,0,0,1,0,0,0,0
 Radio_RadioWuppertal,Radio Wuppertal,1,1,0,0,0,1,0,0,0,0
 Radio_rs2,RS2,1,1,0,0,0,1,0,0,0,0
 Radio_RTL,RTL Radio,1,1,0,0,0,1,0,0,0,0
-Radio_SenderPotsdam,Sender Potsdam,1,na,0,0,0,1,0,0,0,0
+Radio_Potsdam,Radio Potsdam,1,1,0,0,0,1,0,0,0,0
 Radio_SpreeRadio,Spreeradio,1,1,0,0,0,1,0,0,0,0
 Radio_StarFM,Star FM,1,1,0,0,0,1,0,0,0,0
-Radio_Untersberg,Radio Untersberg,1,na,0,0,0,1,0,0,0,0
+Radio_Untersberg,Radio Untersberg,1,1,0,0,0,1,0,0,0,0
 Radio_YouFM,YouFM,1,0,0,0,0,1,0,0,0,0
 SchumacherS,Susanne Schumacher,0,na,0,0,0,0,0,0,0,0
 SirinM,Mitrin Sirin,0,na,0,0,0,0,0,0,0,0
@@ -115,7 +115,7 @@ TV_ZDF,ZDF,1,0,0,0,1,0,0,0,0,0
 UlrichWC,Wolf-Christian Ulrich,0,na,0,0,0,0,0,0,0,0
 Volontariat_Radio_RadioGong,Volontariat Radio Gong,1,1,0,0,0,1,0,0,0,1
 Volontariat_Radio_RadioSaw,Volontariat Radio SAW,1,1,0,0,0,1,0,0,0,1
-Volontariat_Radio_RadioWuppertal,Volontariat Radio Wuppertal,1,na,0,0,0,1,0,0,0,1
+Volontariat_Radio_RadioWuppertal,Volontariat Radio Wuppertal,1,1,0,0,0,1,0,0,0,1
 Volontariat_TV_NBC,Volontariat NBC,1,1,0,0,1,0,0,0,0,1
 Volontariat_TV_NDR,Volontariat NDR,1,0,0,0,1,0,0,0,0,1
 Volontariat_TV_SAT1,Volontariat Sat1,1,1,0,0,1,0,0,0,0,1
